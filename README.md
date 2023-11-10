@@ -1,10 +1,10 @@
 <h1>Create, Read, Update dan Delete dengan flask dan flask_mysqldb</h1>
 
-<p>Pertama, saya akan mencoba untuk menambahkan data siswa baru dengan (Create)</p>
+<p>Pertama, saya akan mencoba untuk menambahkan data siswa baru dengan (Create).</p>
 
 ![create](https://github.com/yogawanadityapratama/responsi-pemrograman-web/assets/123430193/c8f43860-e211-4daa-9779-65a4a9edf386)
 
-<p>Ketika button tambah di tekan, otomatis akan membaca data mahasiswa dengan (Read). Dan akan otomatis masuk ke tabel database</p>
+<p>Ketika button tambah di tekan, otomatis akan menambahkan data form ke tabel database dan otomatis membaca data mahasiswa dengan (Read). Dan akan otomatis di tampilkan ke HTML dengan perulangan.</p>
 
 ![read](https://github.com/yogawanadityapratama/responsi-pemrograman-web/assets/123430193/104ff489-794f-4d24-b1c5-2375106d2f36)
 
