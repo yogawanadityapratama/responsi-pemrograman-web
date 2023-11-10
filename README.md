@@ -14,7 +14,7 @@
 
 <p>Ketika button "Simpan perubahan" di tekan, otomatis akan mengupdate tabel database</p>
 
-![create](https://github.com/yogawanadityapratama/responsi-pemrograman-web/assets/123430193/c8f43860-e211-4daa-9779-65a4a9edf386)
+![read](https://github.com/yogawanadityapratama/responsi-pemrograman-web/assets/123430193/5b8e643d-b874-4d43-a336-d7e03a2a1d93)
 
 <p>Ketiga, saya akan mencoba menghapus salah satu tabel, yaitu "pler", karena ada nama yang tidak senonoh jadinya saya mau hapus. Caranya? cukup dengan menekan button "Delete", maka akan otomatis terhapus</p>
 <p>Seperti ini:</p>
