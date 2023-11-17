@@ -2,7 +2,9 @@
 
 <h3>CRUD (Sistem Informasi Siswa SMA N 1 Klaten)</h3>
 
-<p>Karena di responsi kali ini saya gak tau mau buat apa, yasudahlah. Mari membaca karya dari orang tolol ini.</p>
+<p>Karena di responsi kali ini saya gak tau mau buat apa, yasudahlah. Mari membaca karya dari orang tolol ini. Untuk bahasa pemrograman saya mengunakan Python, untuk tampilan saya menggunakan HTML, CSS Bootstrap, dan untuk database saya menggunakan MySQL.</p>
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap)](https://skillicons.dev)
 
 ![read](https://github.com/yogawanadityapratama/responsi-pemrograman-web/assets/123430193/104ff489-794f-4d24-b1c5-2375106d2f36)
 
@@ -26,8 +28,3 @@
 <p>Seperti ini:</p>
 
 ![delete](https://github.com/yogawanadityapratama/responsi-pemrograman-web/assets/123430193/dbec6f87-67a0-4c37-b657-7038f8f1b65a)
-
-<h3>Language</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap)](https://skillicons.dev)
-
