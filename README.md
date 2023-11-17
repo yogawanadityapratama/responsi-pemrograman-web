@@ -2,6 +2,8 @@
 
 <h4>Sistem Informasi Siswa SMA N 1 Klaten</h4>
 
+<hr>
+
 ![read](https://github.com/yogawanadityapratama/responsi-pemrograman-web/assets/123430193/104ff489-794f-4d24-b1c5-2375106d2f36)
 
 <p>Pertama, saya akan mencoba untuk menambahkan data siswa baru dengan (Create).</p>
