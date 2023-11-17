@@ -29,5 +29,5 @@
 
 <h3>Language</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=pytho,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap)](https://skillicons.dev)
 
