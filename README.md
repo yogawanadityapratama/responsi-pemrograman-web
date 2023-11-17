@@ -1,8 +1,8 @@
 <h1>Create, Read, Update dan Delete dengan flask dan flask_mysqldb</h1>
 
-<h4>Sistem Informasi Siswa SMA N 1 Klaten</h4>
+<h3>CRUD (Sistem Informasi Siswa SMA N 1 Klaten)</h3>
 
-<hr>
+<p>Karena saya gak tau mau buat apa, yasudahlah. Mari membaca karya orang tolol.</p>
 
 ![read](https://github.com/yogawanadityapratama/responsi-pemrograman-web/assets/123430193/104ff489-794f-4d24-b1c5-2375106d2f36)
 
