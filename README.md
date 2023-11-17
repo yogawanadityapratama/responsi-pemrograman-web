@@ -2,11 +2,15 @@
 
 <h3>CRUD (Sistem Informasi Siswa SMA N 1 Klaten)</h3>
 
-<p>Karena di responsi kali ini saya gak tau mau buat apa, yasudahlah. Mari membaca karya dari orang tolol ini. Untuk bahasa pemrograman saya mengunakan Python, untuk tampilan saya menggunakan HTML, CSS Bootstrap, dan untuk database saya menggunakan MySQL.</p>
+<p>Karena di responsi kali ini saya gak tau mau buat apa, yasudahlah. Mari membaca karya dari orang tolol ini.</p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap)](https://skillicons.dev)
+<p>Overview:</p>
 
 ![read](https://github.com/yogawanadityapratama/responsi-pemrograman-web/assets/123430193/104ff489-794f-4d24-b1c5-2375106d2f36)
+
+<p>Untuk bahasa pemrograman saya mengunakan Python, untuk tampilan saya menggunakan HTML, CSS Bootstrap, dan untuk database saya menggunakan MySQL.</p>
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap)](https://skillicons.dev)
 
 <p>1. Saya akan mencoba untuk menambahkan data siswa baru dengan (Create).</p>
 
