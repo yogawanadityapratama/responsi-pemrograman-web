@@ -26,3 +26,8 @@
 <p>Seperti ini:</p>
 
 ![delete](https://github.com/yogawanadityapratama/responsi-pemrograman-web/assets/123430193/dbec6f87-67a0-4c37-b657-7038f8f1b65a)
+
+<h3>Language</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=pytho,html,css,bootstrap)](https://skillicons.dev)
+
