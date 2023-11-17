@@ -10,7 +10,7 @@
 
 <p>Untuk bahasa pemrograman saya mengunakan Python, untuk tampilan saya menggunakan HTML, CSS Bootstrap, dan untuk database saya menggunakan MySQL.</p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,mysql)](https://skillicons.dev)
 
 <p>1. Saya akan mencoba untuk menambahkan data siswa baru dengan (Create).</p>
 
