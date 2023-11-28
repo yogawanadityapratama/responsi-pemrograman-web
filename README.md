@@ -1,4 +1,4 @@
-<h1>Create, Read, Update dan Delete dengan flask dan flask_mysqldb</h1>
+<h1>Create, Read, Update dan Delete dengan Flask dan Flask_mysqldb</h1>
 
 <h3>CRUD (Sistem Informasi Siswa SMA N 1 Klaten)</h3>
 
