@@ -2,10 +2,6 @@
 
 <h3>CRUD (Sistem Informasi Siswa SMA N 1 Klaten)</h3>
 
-## Tools
-
-[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
-
 <p>Karena di responsi kali ini saya gak tau mau buat apa, yasudahlah. Mari membaca karya dari orang tolol ini.</p>
 
 <p>Overview:</p>
